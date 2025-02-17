@@ -68,6 +68,4 @@ This project introduces an innovative approach to music composition by employing
     ```
 4.  Run display.py to open the generated .mid file in MuseScore for easy viewing and editing.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
